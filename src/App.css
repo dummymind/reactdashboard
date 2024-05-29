@@ -203,3 +203,10 @@
 .selectboxcontainer::-webkit-scrollbar {
   display: none;
 }
+
+
+.card-img-top-custom{
+
+  height: 110px;
+  width: 322px;
+}
