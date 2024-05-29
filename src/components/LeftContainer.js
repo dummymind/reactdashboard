@@ -50,7 +50,145 @@ function LeftContainer() {
 
 
 
-            
+
+
+            <div className="row card-group text-wrap text-start m-2">
+            <div className='col-md-4 p-2'>  
+  <div className="card rounded">
+    <img className="card-img-top-custom card-img-top rounded" src={rectangelimage}   alt="Card image cap" />
+    <div className="card-body-custom card-body">
+      <h6 className='card-header-custom'>
+      Lunch & Learn at Royal Canin’s St Charles site
+                    </h6>
+      <p className="card-text-custom card-text">
+      with <b>Julian MARS, Justin MARS, Pamela MARS, Marijke MARS</b>
+      <p>Still accepting Family members<div><b>14/03/2024 • ST CHARLES, MO, USA</b></div></p>
+      <span>Created by Gina CALLEO on 09/04/2024</span>
+      </p>
+    </div>
+    <div className="card-footer-custom card-footer">
+      <button className='card-footer-button btn rounded-pill'>OPEN EVENT</button>
+    </div>
+  </div>
+  </div>
+
+
+
+  <div className='col-md-4 p-2'>  
+  <div className="card rounded">
+    <img className="card-img-top-custom card-img-top rounded" src={rectangelimage2}   alt="Card image cap" />
+    <div className="card-body-custom card-body">
+      <h6 className='card-header-custom'>
+      Annual visit of alsace’s sites
+                    </h6>
+      <p className="card-text-custom card-text">
+      with <b>Julian MARS, Justin MARS, Pamela MARS, Marijke MARS</b>
+      <p>Still accepting Family members<div><b>10/06/2024 • Haguenau, bas-rhin, france</b></div></p>
+      <span>Created by Gina CALLEO on 13/04/2024</span>
+      </p>
+    </div>
+    <div className="card-footer-custom card-footer">
+      <button className='card-footer-button btn rounded-pill'>OPEN EVENT</button>
+    </div>
+  </div>
+  </div>
+
+
+
+  
+
+  
+
+   <div className='col-md-4 p-2'>  
+  <div className="card rounded">
+    <img className="card-img-top-custom card-img-top rounded" src={rectangelimage}   alt="Card image cap" />
+    <div className="card-body-custom card-body">
+      <h6 className='card-header-custom'>
+      Lunch & Learn at Royal Canin’s St Charles site
+                    </h6>
+      <p className="card-text-custom card-text">
+      with <b>Julian MARS, Justin MARS, Pamela MARS, Marijke MARS</b>
+      <p>Still accepting Family members<div><b>14/03/2024 • ST CHARLES, MO, USA</b></div></p>
+      <span>Created by Gina CALLEO on 09/04/2024</span>
+      </p>
+    </div>
+    <div className="card-footer-custom card-footer">
+      <button className='card-footer-button btn rounded-pill'>OPEN EVENT</button>
+    </div>
+  </div>
+  </div>
+
+
+  <div className='col-md-4 p-2'>  
+  <div className="card rounded">
+    <img className="card-img-top-custom card-img-top rounded" src={rectangelimage}   alt="Card image cap" />
+    <div className="card-body-custom card-body">
+      <h6 className='card-header-custom'>
+      Lunch & Learn at Royal Canin’s St Charles site
+                    </h6>
+      <p className="card-text-custom card-text">
+      with <b>Julian MARS, Justin MARS, Pamela MARS, Marijke MARS</b>
+      <p>Still accepting Family members<div><b>14/03/2024 • ST CHARLES, MO, USA</b></div></p>
+      <span>Created by Gina CALLEO on 09/04/2024</span>
+      </p>
+    </div>
+    <div className="card-footer-custom card-footer">
+      <button className='card-footer-button btn rounded-pill'>OPEN EVENT</button>
+    </div>
+  </div>
+  </div>
+
+
+
+  <div className='col-md-4 p-2'>  
+  <div className="card rounded">
+    <img className="card-img-top-custom card-img-top rounded" src={rectangelimage2}   alt="Card image cap" />
+    <div className="card-body-custom card-body">
+      <h6 className='card-header-custom'>
+      Annual visit of alsace’s sites
+                    </h6>
+      <p className="card-text-custom card-text">
+      with <b>Julian MARS, Justin MARS, Pamela MARS, Marijke MARS</b>
+      <p>Still accepting Family members<div><b>10/06/2024 • Haguenau, bas-rhin, france</b></div></p>
+      <span>Created by Gina CALLEO on 13/04/2024</span>
+      </p>
+    </div>
+    <div className="card-footer-custom card-footer">
+      <button className='card-footer-button btn rounded-pill'>OPEN EVENT</button>
+    </div>
+  </div>
+  </div>
+
+
+
+  
+
+  
+
+   <div className='col-md-4 p-2'>  
+  <div className="card rounded">
+    <img className="card-img-top-custom card-img-top rounded" src={rectangelimage}   alt="Card image cap" />
+    <div className="card-body-custom card-body">
+      <h6 className='card-header-custom'>
+      Lunch & Learn at Royal Canin’s St Charles site
+                    </h6>
+      <p className="card-text-custom card-text">
+      with <b>Julian MARS, Justin MARS, Pamela MARS, Marijke MARS</b>
+      <p>Still accepting Family members<div><b>14/03/2024 • ST CHARLES, MO, USA</b></div></p>
+      <span>Created by Gina CALLEO on 09/04/2024</span>
+      </p>
+    </div>
+    <div className="card-footer-custom card-footer">
+      <button className='card-footer-button btn rounded-pill'>OPEN EVENT</button>
+    </div>
+  </div>
+  </div>
+
+
+
+</div>
+
+
 
 
  

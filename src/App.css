@@ -135,6 +135,7 @@
   height: 350px;
   padding: 0px !important;
   margin-top: 10px !important;
+  overflow: auto;
 }
 
 .leftsearchbox {
@@ -209,4 +210,31 @@
 
   height: 110px;
   width: 322px;
+}
+
+.card-header-custom{
+  color:darkblue;
+  text-transform: uppercase;
+  font-weight: 1000;
+  font-size: small;
+}
+
+.card-body-custom{
+  color:darkblue !important;
+  
+}
+.card-text-custom{
+
+}
+
+.card-footer-custom{
+  background-color: transparent !important;
+  border:none !important;
+}
+.card-footer-button{
+  background-color: #00DCFA !important;
+  color:darkblue !important;
+  border-radius: 10% !important;
+  font-size: smaller !important;
+  font-weight: 900 !important;
 }
