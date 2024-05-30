@@ -139,7 +139,7 @@
 }
 
 .leftsearchbox {
-  padding: 20px;
+  padding: 10px;
 }
 
 .paging {
@@ -227,14 +227,40 @@
 
 }
 
-.card-footer-custom{
-  background-color: transparent !important;
-  border:none !important;
-}
+
 .card-footer-button{
   background-color: #00DCFA !important;
   color:darkblue !important;
   border-radius: 10% !important;
   font-size: smaller !important;
   font-weight: 900 !important;
+}
+
+.card-footer-button-right{
+  background-color: lavender !important;
+  font-size: smaller !important;
+  font-weight: 900 !important;
+  margin-right: 0.2rem;
+}
+
+.form-control-custom{
+  font-size: small !important;
+  background-color: lavender !important;
+}
+
+.input-group-text-custom{
+  border:none !important;
+  background-color: transparent !important;
+  font-size: small !important;
+  font-weight: 400 !important;
+}
+
+.card-footer-custom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-top: 1px solid #e5e5e5;
+  background-color: transparent !important;
+  border:none !important;
 }

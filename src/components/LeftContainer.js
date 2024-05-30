@@ -20,24 +20,24 @@ function LeftContainer() {
                     </div>
                 </div>
 
-                <div className="container-fluid d-flex align-items-center">
+                <div className="container-fluid align-items-center">
                     <div className="row">
                         <div className="col-md-5">
-                            <div className="input-group mb-3">
-                                <label htmlFor="searchInput" className="input-group-text" >Search</label>
-                                <input type="text" className="form-control" id="searchInput" placeholder="Type a keyword &#x1F50E;" />
+                            <div className="input-group mb-0">
+                                <label htmlFor="searchInput" className="input-group-text input-group-text-custom" >Search</label>
+                                <input type="text" className="form-control-custom rounded form-control" id="searchInput" placeholder="Type a keyword &#x1F50E;" />
                             </div>
                         </div>
                         <div className="col-md-4">
-                            <div className="input-group mb-3">
-                                <label htmlFor="dateInput" className="input-group-text">Date</label>
-                                <input type="date" className="form-control" id="dateInput" placeholder="Date &#x1F4C5;" />
+                            <div className="input-group mb-0">
+                                <label htmlFor="dateInput" className="input-group-text input-group-text-custom">Date Interval</label>
+                                <input type="date" className="form-control-custom rounded form-control" id="dateInput" placeholder="Date &#x1F4C5;" />
                             </div>
                         </div>
                         <div className="col-md-3">
-                            <div className="input-group mb-3">
-                                <label className="input-group-text" htmlFor="inputGroupFile01">Sort By</label>
-                                <select className="form-select" aria-label="Sort By">
+                            <div className="input-group mb-0">
+                                <label className="input-group-text input-group-text-custom" htmlFor="inputGroupFile01">Sort By</label>
+                                <select className="form-control-custom rounded form-select" aria-label="Sort By">
                                     <option selected>Newest</option>
                                     <option value="older">Older</option>
                                 </select>
@@ -68,6 +68,10 @@ function LeftContainer() {
     </div>
     <div className="card-footer-custom card-footer">
       <button className='card-footer-button btn rounded-pill'>OPEN EVENT</button>
+      <span className='float-right-custom'>
+      <button className='card-footer-button-right btn '>X</button>
+      <button className='card-footer-button-right btn '>✔️</button>
+      </span>
     </div>
   </div>
   </div>
@@ -89,7 +93,12 @@ function LeftContainer() {
     </div>
     <div className="card-footer-custom card-footer">
       <button className='card-footer-button btn rounded-pill'>OPEN EVENT</button>
+      <span className='float-right-custom'>
+      <button className='card-footer-button-right btn '>X</button>
+      <button className='card-footer-button-right btn '>✔️</button>
+      </span>
     </div>
+
   </div>
   </div>
 
@@ -134,7 +143,12 @@ function LeftContainer() {
     </div>
     <div className="card-footer-custom card-footer">
       <button className='card-footer-button btn rounded-pill'>OPEN EVENT</button>
+      <span className='float-right-custom'>
+      <button className='card-footer-button-right btn '>X</button>
+      <button className='card-footer-button-right btn '>✔️</button>
+      </span>
     </div>
+
   </div>
   </div>
 
@@ -155,7 +169,12 @@ function LeftContainer() {
     </div>
     <div className="card-footer-custom card-footer">
       <button className='card-footer-button btn rounded-pill'>OPEN EVENT</button>
+      <span className='float-right-custom'>
+      <button className='card-footer-button-right btn '>X</button>
+      <button className='card-footer-button-right btn '>✔️</button>
+      </span>
     </div>
+
   </div>
   </div>
 
@@ -180,7 +199,12 @@ function LeftContainer() {
     </div>
     <div className="card-footer-custom card-footer">
       <button className='card-footer-button btn rounded-pill'>OPEN EVENT</button>
+      <span className='float-right-custom'>
+      <button className='card-footer-button-right btn '>X</button>
+      <button className='card-footer-button-right btn '>✔️</button>
+      </span>
     </div>
+
   </div>
   </div>
 
