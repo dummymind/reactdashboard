@@ -1,0 +1,51 @@
+.font-mars-centra {
+    font-family: 'Mars Centra', sans-serif !important;
+  }
+  .font-700 {
+    font-weight: 700 !important;
+  }
+  .font-800 {
+    font-weight: 800 !important;
+  }
+  .text-uppercase {
+    text-transform: uppercase !important;
+  }
+  .border-custom {
+    border-radius: 8px;
+    border: 1px solid rgba(229, 229, 245, 1);
+  }
+  .text-blue {
+    color: #0000a0 !important;
+  }
+  .text-blue2 {
+    color: #000068 !important;
+  }
+  .bg-green {
+    background-color: #00d7b9;
+  }
+  .bg-fresh-green {
+    background-color: #a6db00;
+  }
+  .bg-sky-blue {
+    background-color: #00dcfa;
+  }
+  .border-radius-50 {
+    border-radius: 50%;
+  }
+  .image-icon {
+    width: 8px;
+  }
+  .image-icon-lg {
+    width: 14px;
+  }
+  .image-abs {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .content-wrapper {
+    padding: 24px 80px 80px 24px;
+  }
