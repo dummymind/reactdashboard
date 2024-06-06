@@ -137,7 +137,7 @@
 
 .listitems {
   background-color: lavender;
-  height: 350px;
+  height: 600px;
   padding: 0px !important;
   margin-top: 10px !important;
   overflow: auto;
@@ -218,7 +218,7 @@
 }
 
 .card-header-custom{
-  color:darkblue;
+  color:darkblue !important;
   text-transform: uppercase;
   font-weight: 1000;
   font-size: small;
@@ -229,7 +229,7 @@
   
 }
 .card-text-custom{
-
+color:darkblue !important;
 }
 
 
@@ -345,4 +345,19 @@
 .form-check-input-custom2:checked {
   background-color:aquamarine !important; /* Background color of the checkbox when checked */
   border-color: blue; /* Border color of the checkbox when checked */
+}
+
+
+.futureevents p{
+
+  color:darkblue !important;
+  margin-bottom: .5rem !important;
+}
+
+.card-footer-button-confirmed{
+  background-color: #A6DB00 !important;
+  color:darkblue !important;
+  border-radius: 10% !important;
+  font-size: smaller !important;
+  font-weight: 900 !important;
 }

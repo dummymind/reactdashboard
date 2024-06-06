@@ -1,5 +1,6 @@
 import React from 'react';
 import Calendar from './Calendar';
+import FutureEvents from './futureevents';
 function RightContainer() {
     return (
         <div className="rightcontainer" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style={{ minHeight: '500px' }}>
@@ -25,6 +26,7 @@ function RightContainer() {
                 </div>
             </div>
 <Calendar/>
+<FutureEvents/>
         </div>
     );
 }
